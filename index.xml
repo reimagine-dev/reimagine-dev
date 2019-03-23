@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Reimagine Dev</title>
+    <title>Conference on Reimagine Dev</title>
     <link>https://reimaginedev.github.io/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Reimagine Dev</description>
+    <description>Recent content in Conference on Reimagine Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
