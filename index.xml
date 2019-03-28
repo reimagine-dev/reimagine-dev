@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on Reimagine Dev</title>
+    <title>Conferenza on Reimagine Dev</title>
     <link>https://reimaginedev.github.io/</link>
-    <description>Recent content in Conference on Reimagine Dev</description>
+    <description>Recent content in Conferenza on Reimagine Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -95,12 +95,17 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Contatti</title>
       <link>https://reimaginedev.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimaginedev.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
+      <description>Proximo srl
+Via Martiri della Libertà, 3
+60022 Castelfidardo (AN)
+
+Email info@prxm.it
+Tel 071 723 2476</description>
     </item>
     
     <item>
