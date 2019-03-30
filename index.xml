@@ -12,6 +12,42 @@
     
     
     <item>
+      <title>Registrazione</title>
+      <link>https://reimagine.dev/sessions/0900-registrazione/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/0900-registrazione/</guid>
+      <description>Registrazione partecipanti</description>
+    </item>
+    
+    <item>
+      <title>Keynote d&#39;apertura</title>
+      <link>https://reimagine.dev/sessions/0930-keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/0930-keynote/</guid>
+      <description>Perché una nuova conf?</description>
+    </item>
+    
+    <item>
+      <title>Pranzo</title>
+      <link>https://reimagine.dev/sessions/1300-pranzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1300-pranzo/</guid>
+      <description>Perché una nuova conf?</description>
+    </item>
+    
+    <item>
+      <title>Chiusura</title>
+      <link>https://reimagine.dev/sessions/1730-closing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1730-closing/</guid>
+      <description>Perché una nuova conf?</description>
+    </item>
+    
+    <item>
       <title>Reimagine Dev</title>
       <link>https://reimagine.dev/blog/start/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
@@ -37,7 +73,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_2/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -46,7 +82,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_3/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -55,7 +91,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_4/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -64,7 +100,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_5/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -73,7 +109,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_6/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -82,7 +118,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_7/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -91,7 +127,7 @@ Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/speakers/speaker_8/</guid>
-      <description>Sviluppatore da sempre&amp;hellip;.</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -106,15 +142,6 @@ Via Martiri della Libertà, 3
 
 Email info@prxm.it
 Tel 071 723 2476</description>
-    </item>
-    
-    <item>
-      <title>Keynote d&#39;apertura</title>
-      <link>https://reimagine.dev/sessions/101-keynote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reimagine.dev/sessions/101-keynote/</guid>
-      <description>Perché una nuova conf?</description>
     </item>
     
   </channel>

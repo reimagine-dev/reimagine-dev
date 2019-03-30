@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://reimagine.dev/sessions/0900-registrazione/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/0930-keynote/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1300-pranzo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1730-closing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://reimagine.dev/blog/start/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -87,12 +111,6 @@
     <loc>https://reimagine.dev/tags/general/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://reimagine.dev/sessions/101-keynote/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
