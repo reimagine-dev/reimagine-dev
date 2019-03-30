@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Reimagine Dev</title>
-    <link>https://reimaginedev.github.io/blog/</link>
+    <link>https://reimagine.dev/blog/</link>
     <description>Recent content in Blog on Reimagine Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://reimaginedev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reimagine.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reimagine Dev</title>
-      <link>https://reimaginedev.github.io/blog/start/</link>
+      <link>https://reimagine.dev/blog/start/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reimaginedev.github.io/blog/start/</guid>
+      <guid>https://reimagine.dev/blog/start/</guid>
       <description>Reimagine Dev si terrà il 7 Giugno 2019 a Camerano (AN).
 Team La conferenza è organizzata da un team di Developer che dopo anni di eventi prettamente tecnici hanno sentito l&amp;rsquo;esigenza di creare un momento di discussione e riflessione che rimettesse al centro le persone e non le tecnologie.
 Temi  Saper comunicare Remote / Smart Working Gestione dello stress Esperienze nella gestione dei progetti o prodotti digitali Tecniche di sopravvivenza all&amp;rsquo;hype tecnologico Vita da Community Partecipazione a progetti Open Source  Formato Sessioni da 25 minuti con 5 minuti di Q&amp;amp;A finali.</description>
