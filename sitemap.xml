@@ -15,13 +15,97 @@
   </url>
   
   <url>
+    <loc>https://reimagine.dev/sessions/1000-session1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1030-session2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1100-coffe-break/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1115-session3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1145-session4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1215-session5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1245-session6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://reimagine.dev/sessions/1300-pranzo/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://reimagine.dev/sessions/1430-unconference1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1500-unconference2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1530-unconference3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1600-unconference4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1630-unconference5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1700-unconference6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://reimagine.dev/sessions/1730-closing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/sessions/1800-networking-beer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -89,6 +173,12 @@
   </url>
   
   <url>
+    <loc>https://reimagine.dev/tags/break/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://reimagine.dev/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -114,6 +204,18 @@
   </url>
   
   <url>
+    <loc>https://reimagine.dev/tags/keynote/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/tags/registrazione/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://reimagine.dev/sessions/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -127,6 +229,18 @@
   
   <url>
     <loc>https://reimagine.dev/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/tags/talk/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reimagine.dev/tags/unconference/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

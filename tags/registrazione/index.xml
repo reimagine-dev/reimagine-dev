@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Registrazione on Reimagine Dev</title>
+    <link>https://reimagine.dev/tags/registrazione/</link>
+    <description>Recent content in Registrazione on Reimagine Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://reimagine.dev/tags/registrazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>.setup()</title>
+      <link>https://reimagine.dev/sessions/0900-registrazione/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/0900-registrazione/</guid>
+      <description>Registrazione partecipanti</description>
+    </item>
+    
+  </channel>
+</rss>

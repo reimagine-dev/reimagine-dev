@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk on Reimagine Dev</title>
+    <link>https://reimagine.dev/tags/talk/</link>
+    <description>Recent content in Talk on Reimagine Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://reimagine.dev/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sessione 1</title>
+      <link>https://reimagine.dev/sessions/1000-session1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1000-session1/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 2</title>
+      <link>https://reimagine.dev/sessions/1030-session2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1030-session2/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 3</title>
+      <link>https://reimagine.dev/sessions/1115-session3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1115-session3/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 4</title>
+      <link>https://reimagine.dev/sessions/1145-session4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1145-session4/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 5</title>
+      <link>https://reimagine.dev/sessions/1215-session5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1215-session5/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 6</title>
+      <link>https://reimagine.dev/sessions/1245-session6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1245-session6/</guid>
+      <description>TBD</description>
+    </item>
+    
+  </channel>
+</rss>

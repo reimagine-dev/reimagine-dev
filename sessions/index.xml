@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Registrazione</title>
+      <title>.setup()</title>
       <link>https://reimagine.dev/sessions/0900-registrazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,12 +20,75 @@
     </item>
     
     <item>
-      <title>Keynote d&#39;apertura</title>
+      <title>.start()</title>
       <link>https://reimagine.dev/sessions/0930-keynote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/sessions/0930-keynote/</guid>
-      <description>Perché una nuova conf?</description>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 1</title>
+      <link>https://reimagine.dev/sessions/1000-session1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1000-session1/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 2</title>
+      <link>https://reimagine.dev/sessions/1030-session2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1030-session2/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Coffee break</title>
+      <link>https://reimagine.dev/sessions/1100-coffe-break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1100-coffe-break/</guid>
+      <description>Coffee Break</description>
+    </item>
+    
+    <item>
+      <title>Sessione 3</title>
+      <link>https://reimagine.dev/sessions/1115-session3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1115-session3/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 4</title>
+      <link>https://reimagine.dev/sessions/1145-session4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1145-session4/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 5</title>
+      <link>https://reimagine.dev/sessions/1215-session5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1215-session5/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Sessione 6</title>
+      <link>https://reimagine.dev/sessions/1245-session6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1245-session6/</guid>
+      <description>TBD</description>
     </item>
     
     <item>
@@ -34,7 +97,61 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/sessions/1300-pranzo/</guid>
-      <description>Perché una nuova conf?</description>
+      <description>Pausa pranzo</description>
+    </item>
+    
+    <item>
+      <title>Unconference 1</title>
+      <link>https://reimagine.dev/sessions/1430-unconference1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1430-unconference1/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Unconference 2</title>
+      <link>https://reimagine.dev/sessions/1500-unconference2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1500-unconference2/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Unconference 3</title>
+      <link>https://reimagine.dev/sessions/1530-unconference3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1530-unconference3/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Unconference 4</title>
+      <link>https://reimagine.dev/sessions/1600-unconference4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1600-unconference4/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Unconference 5</title>
+      <link>https://reimagine.dev/sessions/1630-unconference5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1630-unconference5/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Unconference 6</title>
+      <link>https://reimagine.dev/sessions/1700-unconference6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1700-unconference6/</guid>
+      <description>TBD</description>
     </item>
     
     <item>
@@ -43,7 +160,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reimagine.dev/sessions/1730-closing/</guid>
-      <description>Perché una nuova conf?</description>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>:beers: Networking</title>
+      <link>https://reimagine.dev/sessions/1800-networking-beer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/sessions/1800-networking-beer/</guid>
+      <description>Beer time</description>
     </item>
     
   </channel>
