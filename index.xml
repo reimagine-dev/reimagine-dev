@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Coffee break</title>
+      <title>.break(:coffee:)</title>
       <link>https://reimagine.dev/sessions/1100-coffe-break/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>Pranzo</title>
+      <title>.break(:hamburger:)</title>
       <link>https://reimagine.dev/sessions/1300-pranzo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -165,7 +165,7 @@
     </item>
     
     <item>
-      <title>:beers: Networking</title>
+      <title>.connect(:beers:)</title>
       <link>https://reimagine.dev/sessions/1800-networking-beer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
