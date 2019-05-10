@@ -12,6 +12,18 @@
     
     <item>
       <title></title>
+      <link>https://reimagine.dev/speakers/alessandro_giorgetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/speakers/alessandro_giorgetti/</guid>
+      <description>I&amp;rsquo;m a humble guy and like to call myself a &amp;lsquo;Software Artisan&amp;rsquo;.
+I&amp;rsquo;m a developer, a speaker, a technical blogger and an Open Source contributor.
+I was between the founders of the .Net user group DotNetMarche and contributed to the birth of the DevMarche community.
+In the last years my main focus moved to Distributed, Reactive, Message/Event Driven Architectures and all the toolkits (e.g. Actor Frameworks, ESBs and the likes) that enable and support them.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://reimagine.dev/speakers/andrea_balducci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -21,65 +33,64 @@
     
     <item>
       <title></title>
-      <link>https://reimagine.dev/speakers/speaker_2/</link>
+      <link>https://reimagine.dev/speakers/andrea_santi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reimagine.dev/speakers/speaker_2/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://reimagine.dev/speakers/andrea_santi/</guid>
+      <description>Mancato chef prestato al mondo dell&amp;rsquo;informatica.
+Dopo un passato nel mondo della ricerca all&amp;rsquo;inseguimento di nuove astrazioni e paradigmi di programmazione (attori/agenti &amp;amp; co.) si converte al mondo dell&amp;rsquo;industria nel 2013.
+Ad oggi è un full stack developer con una passione sfrenata per tutto ciò che ruota intorno al mondo della programmazione concorrente e distribuita.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reimagine.dev/speakers/speaker_3/</link>
+      <link>https://reimagine.dev/speakers/gianni_bortolo_bossini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reimagine.dev/speakers/speaker_3/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://reimagine.dev/speakers/gianni_bortolo_bossini/</guid>
+      <description>Sviluppatore backend, appassionato di architetture software, attratto da tutte le possibili novità e nuove tecnologie, ho iniziato a studiare diversi linguaggi, ma non ne conosco bene nessuno :)</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reimagine.dev/speakers/speaker_4/</link>
+      <link>https://reimagine.dev/speakers/lorenzo_barbieri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reimagine.dev/speakers/speaker_4/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://reimagine.dev/speakers/lorenzo_barbieri/</guid>
+      <description>Increasing partners ROI on cloud investments with the right architecture is one my objectives as a Cloud Solution Architect working for Microsoft. Improving people’s public speaking skills is one of my personal goals.
+I&amp;rsquo;m specialized in Cloud Application Development, both Azure and Office 365, Windows and cross-platform applications, Visual Studio, ALM and DevOps, and I like to talk with people and communities about technology, food, and funny things.
+I&amp;rsquo;m a speaker, a trainer, and a public speaking coach.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reimagine.dev/speakers/speaker_5/</link>
+      <link>https://reimagine.dev/speakers/lorenzo_massacci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reimagine.dev/speakers/speaker_5/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://reimagine.dev/speakers/lorenzo_massacci/</guid>
+      <description>Facilitatore e mentor per la gestione di team e progetti software.
+Stregato dal software sin dai tempi del commodore vic-20, sperimento da sempre nuove linguaggi e nuove tecniche di programmazione.
+Ho iniziato sviluppando applicazioni HTML/PHP, utilizzando negli anni i diversi sistemi e framework come Zend Framework e Symfony. Negli ultimi anni mi sono spostato sullo sviluppo Frontend.
+Attualmente mi occupo di sviluppo di applicazioni web o mobile multipiattaforma utilizzando javascript (tramite framework come AngularJS, PhoneGap e Titanium Appcelerator) e Swift per le applicazioni mobile native.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reimagine.dev/speakers/speaker_6/</link>
+      <link>https://reimagine.dev/speakers/william_verdolini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reimagine.dev/speakers/speaker_6/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://reimagine.dev/speakers/william_verdolini/</guid>
+      <description>TBD</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://reimagine.dev/speakers/speaker_7/</link>
+      <link>https://reimagine.dev/speakers/you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reimagine.dev/speakers/speaker_7/</guid>
-      <description>Coming soon&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://reimagine.dev/speakers/speaker_8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reimagine.dev/speakers/speaker_8/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://reimagine.dev/speakers/you/</guid>
+      <description>Il pomeriggio è dedicato all&amp;rsquo;unconference, dopo il pranzo apriremo il marketplace in cui ognuno potrà proporre un talk.
+I talk più votati andranno a comporre l&amp;rsquo;agenda del pomeriggio.</description>
     </item>
     
   </channel>
