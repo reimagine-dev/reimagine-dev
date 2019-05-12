@@ -6,10 +6,21 @@
     <description>Recent content in Blog on Reimagine Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://reimagine.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sessioni online</title>
+      <link>https://reimagine.dev/blog/sessions/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reimagine.dev/blog/sessions/</guid>
+      <description>Abbiamo ricevuto 18 proposte per i 6 slot della mattina, un risultato decisamente superiore alle aspettative per una conferenza non tecnica.
+Le proposte selezionate sono state pubblicate nell&amp;rsquo;agenda, le altre saranno disponibili nel marketplace per l&amp;rsquo;unconference.
+Se hai una esperienza da condividere, un tema che vorresti affrontare o semplicemente un argomento che può suscitare curiosità e alimentare un confronto puoi proporre la tua idea per il talk durante tutta la mattinata.</description>
+    </item>
     
     <item>
       <title>Reimagine Dev</title>

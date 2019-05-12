@@ -111,6 +111,13 @@
   </url>
   
   <url>
+    <loc>https://reimagine.dev/blog/sessions/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://reimagine.dev/blog/start/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -173,7 +180,7 @@
   
   <url>
     <loc>https://reimagine.dev/blog/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -192,7 +199,7 @@
   
   <url>
     <loc>https://reimagine.dev/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
