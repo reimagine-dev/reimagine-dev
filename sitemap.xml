@@ -45,7 +45,7 @@
   </url>
   
   <url>
-    <loc>https://reimagine.dev/sessions/1215-session5/</loc>
+    <loc>https://reimagine.dev/sessions/1215-anche-oggi-devo-andare-in-ufficio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -156,12 +156,6 @@
   
   <url>
     <loc>https://reimagine.dev/speakers/lorenzo_massacci/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://reimagine.dev/speakers/tba/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
